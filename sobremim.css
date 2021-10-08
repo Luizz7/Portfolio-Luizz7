@@ -1,0 +1,25 @@
+
+.div__sobremim {
+    position: absolute;
+    margin-top: 593px;
+}
+
+.h3__sobremim {
+    margin-left: 51rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+.p__sobremim {
+    color: var(--Branco-cinza);
+    width: 745px;
+    margin-left: 35rem;
+    margin-top: 2rem;
+    line-height: 1.8;
+    font-size: 1.2rem;
+    font-family:'DM Sans', sans-serif;
+}
+
+

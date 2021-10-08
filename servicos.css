@@ -1,0 +1,75 @@
+.div__servicos {
+    position: absolute;
+    margin-top: 1700px;
+}
+
+.h4__servicos{
+    margin-left: 53rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__servicos-sites{
+    background-image: url(img/Rectangle\ 4.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-right: 12rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    position: absolute;
+    margin-top: 1800px;
+    margin-left: 19.9rem;
+
+
+}
+
+.div__servicos-sites:hover{
+    border-bottom: 5px solid var(--Verde);
+    
+}
+
+.p__servicos{
+    margin-top: 1rem;
+    font-size: 32px;
+    line-height: 1.5;
+    color: var(--Branco-cinza);
+    font-family:'DM Sans', sans-serif;
+}
+
+.div__servicos-sites-ui{
+    background-image: url(img/Rectangle\ 4.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-right: 11rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    position: absolute;
+    margin-top: 1800px;
+    margin-left: 44.9rem;
+}
+
+.div__servicos-sites-ui:hover{
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__servicos-sites-responsivo{
+    background-image: url(img/Rectangle\ 4.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-right: 9rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    position: absolute;
+    margin-top: 1800px;
+    margin-left: 69.8rem;
+}
+
+.div__servicos-sites-responsivo:hover{
+    border-bottom: 5px solid var(--Verde);
+}

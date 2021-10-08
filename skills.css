@@ -1,0 +1,44 @@
+.div__skills{
+    position: absolute;
+    margin-top: 2100px;
+}
+
+.h4__skills{
+    margin-left: 50.9rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__skills-html{
+    background-image: url(img/Rectangle\ 20.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    position: absolute;
+    margin-top: 2150px;
+    margin-left: 19.5rem;
+}
+
+.div__skills-css{
+    background-image: url(img/Rectangle\ 20.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    position: absolute;
+    margin-top: 2150px;
+    margin-left: 52rem;
+}
+
+.div__skills-javascript {
+    background-image: url(img/Rectangle\ 20.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    position: absolute;
+    margin-top: 2150px;
+    margin-left: 81.7rem;
+
+}

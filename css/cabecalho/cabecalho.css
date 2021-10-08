@@ -1,0 +1,91 @@
+body{
+    background-color: #000003;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+    margin-right: 9.2rem;
+    font-weight: 400;
+
+    
+
+    box-sizing: border-box;
+}
+
+.cabecalho__divisao {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__logo {
+    width: 3.25rem;
+    margin-right: .75rem;
+}
+
+.cabecalho__titulo {
+    color: var(--Branco);
+    font-family: 'DM Sans', sans-serif;
+    margin-left:  9.2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.cabecalho__navegacao {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__item {
+  position: relative;
+  list-style: none;
+  font-family: 'DM Sans', sans-serif;
+  padding: 8px 24px;
+  font-size: 18px;
+  display: inline-block;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  position: relative;
+    
+}
+
+
+.cabecalho__item::after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  -webkit-transform: translate(20%, -50%);
+  transform: translate(25%, -50%);
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  background-color: #2DC7ED;
+    
+}
+
+.cabecalho__item:hover {
+    opacity: .8;
+  }
+  
+.cabecalho__item:hover::after {
+    width: 70%;
+}
+
+
+a{
+    color: var(--Branco);
+    text-decoration: none;
+}

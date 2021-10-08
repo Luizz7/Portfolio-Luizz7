@@ -1,0 +1,124 @@
+
+.div__projetos{
+    position: absolute;
+    margin-top: 1000px;
+}
+
+
+
+.h4__projetos {
+    margin-left: 53rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__projetos-retangulo{
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 20rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+    
+    
+}
+
+.h4__projeto{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+.p__projeto{
+    margin-top: 1rem;
+    color: var(--Branco-cinza);
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__projetos-retangulo-1 {
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 45rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+}
+
+.div__projetos-retangulo-2 {
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 70rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+}
+
+.div__projetos-retangulo-3 {
+    position: absolute;
+    margin-top: 1370px;
+    margin-left: 20rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+}
+
+.div__projetos-retangulo-4 {
+    position: absolute;
+    margin-top: 1370px;
+    margin-left: 45rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+}
+
+.div__projetos-retangulo-5 {
+    position: absolute;
+    margin-top: 1370px;
+    margin-left: 70rem;
+    
+
+    background-image: url(img/Rectangle\ 13.svg);
+    background-position: center;
+    padding: 20px;
+}
+
+
+.div__projetos-retangulo:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__projetos-retangulo-1:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__projetos-retangulo-2:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__projetos-retangulo-3:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__projetos-retangulo-4:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+
+.div__projetos-retangulo-5:hover {
+    border-bottom: 5px solid var(--Verde);
+}
+

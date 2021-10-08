@@ -1,0 +1,145 @@
+
+.div__redes-sociais{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 32rem;
+    padding: 15px;
+    background-image: url(img/fundo\ preto.svg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 150vh;
+    border-radius: 50px;
+    
+}
+
+.img__redes-sociais{
+    height: 3rem;
+}
+
+.div__informacoes{
+    position: absolute;
+    margin-top: 920px;
+    margin-left: 31.5rem;
+}
+
+.h4__nome{
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+.p__nome {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Branco-cinza);
+    margin-top: 1rem;
+    margin-left: 0.3rem;
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__redes-sociais-email{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 47rem;
+    padding: 15px;
+    background-image: url(img/fundo\ preto.svg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 150vh;
+    border-radius: 50px;
+}
+
+.div__informacoes-email{
+    position: absolute;
+    margin-top: 920px;
+    margin-left: 43.5rem;
+}
+
+.p__email {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Branco-cinza);
+    margin-top: 1rem;
+    font-family:'DM Sans', sans-serif;
+}
+
+.h4__email {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 4rem;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+.div__redes-sociais-instagram{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 62rem;
+    padding: 15px;
+    background-image: url(img/fundo\ preto.svg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 150vh;
+    border-radius: 50px;
+}
+
+.div__informacoes-instagram{
+    position: absolute;
+    margin-top: 920px;
+    margin-left: 59.5rem;
+}
+
+.p__instagram {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Branco-cinza);
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-family:'DM Sans', sans-serif;
+}
+
+.h4__instagram {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 2rem;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
+
+
+.div__redes-sociais-telefone{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 76rem;
+    padding: 15px;
+    background-image: url(img/fundo\ preto.svg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 150vh;
+    border-radius: 50px;
+}
+
+.div__informacoes-telefone{
+    position: absolute;
+    margin-top: 920px;
+    margin-left: 73.5rem;
+}
+
+.p__telefone {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Branco-cinza);
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-family:'DM Sans', sans-serif;
+}
+
+.h4__telefone {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 2.8rem;
+    color: var(--Branco);
+    font-family:'DM Sans', sans-serif;
+}
